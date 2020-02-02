@@ -1,13 +1,13 @@
 {
-  "name": "pim-book",
+  "name": "pim-book-solutions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Brandon Yanofsky<byanofsky@me.com>",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^25.1.0"
   }
